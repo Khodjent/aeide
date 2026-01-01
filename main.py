@@ -140,7 +140,7 @@ HTML_TEMPLATE = r'''<!doctype html>
 <html lang="fr">
 <head>
 <meta charset="utf-8" />
-<title>Rapport dépenses — v3</title>
+<title>Rapport dépenses</title>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <script src="https://cdn.plot.ly/plotly-2.24.1.min.js"></script>
 <style>
@@ -591,7 +591,7 @@ def generate_html(out_path, agg):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--in', dest='infile', default='data_summer_2025.csv')
-    parser.add_argument('--out', dest='outfile', default='report_v3.html')
+    parser.add_argument('--out', dest='outfile', default='docs/index.html')
     args = parser.parse_args()
 
     csv_path = args.infile
