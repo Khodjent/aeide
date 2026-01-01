@@ -163,7 +163,7 @@ HTML_TEMPLATE = r'''<!doctype html>
 </style>
 </head>
 <body>
-  <h1>Visualisation & Remboursements — v3</h1>
+  <h1>Visualisation & Remboursements</h1>
   <div class="panel">
     <div style="display:flex; gap:12px; align-items:center;">
       <div>
