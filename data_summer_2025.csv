@@ -1,0 +1,34 @@
+spent_type,spent_subtype,spent_name,amount,member,is_bill,spent_id
+perso,instrument,archet,85,Lucie,1,0
+perso,divers,rouge a levres,06.05,Lucie ,1,1
+perso,instrument,cordes,"288,9",Lucie,1,2
+perso,vetement,robe,"83,3",Lucie,1,3
+perso,instrument,archet,80,Helene,1,4
+perso,instrument,cordes,"99,9",Helene,1,5
+perso,vetement,robe,"100,3",Helene,1,6
+asso,divers,bombes,"7,7",Helene,1,7
+asso,corep,affiche ; flyer,"20,71",Lucie,1,8
+asso,corep,affiche ; flyer,"22,5",Helene,1,9
+asso,corep,flyer,"9,99",David,1,10
+asso,corep,abonnement,23,Nathalie,1,11
+perso,alimentation,the,"7,2",Lucie,1,12
+asso,alimentation,marqueur ; eau,"1,44",Lucie,1,13
+asso,alimentation,snack,"6,37",Lucie,1,14
+perso,poste,poste,"10,45",Helene,1,15
+asso,paroisse,sainthermeland,50,asso,1,17
+asso,paroisse,toutlemonde,50,asso,1,18
+asso,paroisse,valençais,50,asso,1,19
+asso,paroisse,chateaumeilland,50,asso,1,20
+asso,poste,affiches,"4,72",Nathalie,1,21
+asso,corep,flyer,"8,11",Helene,1,22
+asso,corep,flyer ,"8,11",Helene,1,23
+asso,corep,flyer,"16,22",Lucie,1,24
+asso,corep,flyer,"14,11",Lucie,1,25
+asso,corep,flyer,"8,11",Lucie,1,26
+asso,corep,carte ; affiche,40,Lucie,1,27
+perso,vetement,robe,-49,Helene ,,6
+perso,vetement,robe,-49,Lucie,,3
+perso,frais_km,toulouse-chateauroux,"34,99",Lucie,,28
+perso,frais_km,nantes-issoudun,"32,29",Lucie,,29
+perso,frais_km,velles-verrieresenanjou,"21,99",Lucie,,30
+perso,frais_km,angers-orvault,"5,99",Lucie,,31
