@@ -28,10 +28,10 @@ asso,impression,flyer,"8,11",Lucie,1,26
 asso,impression,carte ; affiche,40,Lucie,1,27
 perso,vetement,robe,-49,Helene ,,6
 perso,vetement,robe,-49,Lucie,,3
-perso,frais_km,toulouse-chateauroux,"34,99",Lucie,,28
-perso,frais_km,nantes-issoudun,"32,29",Lucie,,29
-perso,frais_km,velles-verrieresenanjou,"21,99",Lucie,,30
-perso,frais_km,angers-orvault,"5,99",Lucie,,31
+perso,transport,toulouse-chateauroux,"34,99",Lucie,,28
+perso,transport,nantes-issoudun,"32,29",Lucie,,29
+perso,transport,velles-verrieresenanjou,"21,99",Lucie,,30
+perso,transport,angers-orvault,"5,99",Lucie,,31
 perso,frais_km,trajets,"494",Helene,,32
 perso,frais_km,trajets,"118",David,,33
 asso,impression,affiches,"28.35",David,,34
